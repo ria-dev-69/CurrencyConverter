@@ -14,7 +14,7 @@ enum Conversion {
 }
 
 extension Conversion {
-    static let apiKey: String = "aedf1fd0c8b752a9c4586c44"
+    static let apiKey: String = "63bb6caabea441e2a41b6a3f"
 }
 
 extension Conversion: TargetType {
